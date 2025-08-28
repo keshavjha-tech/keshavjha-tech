@@ -1,7 +1,7 @@
 
 ###
 
-<h6 align="left" style="color: #64ffda">Hi, my name is</h6>
+<h6 align="left" style="color:#64ffda">Hi, my name is</h6>
 <h1 align="left" style="font-size:45px; color:#ccd6f6;">Keshav  Jha<br>I build things for the web.</h1>
 
 ###
