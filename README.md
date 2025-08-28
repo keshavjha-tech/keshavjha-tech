@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Github Stats:</h2>
+<h2 align="left">Tech Stack:</h2>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="left">Tech Stack</h2>
+<h2 align="left">Github Stats:</h2>
 
 ###
 
@@ -70,7 +70,7 @@
 
 ###
 
-<h2 align="left">Social</h2>
+<h2 align="left">Social:</h2>
 
 ###
 
